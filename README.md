@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="https://github.com/LHHuy1005"><img align="center" width="auto" height="200" src="image/huy.svg"></a>
 
-<!--
-**LHHuy1005/LHHuy1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lưu Hiểu Huy - Passionate Web Developer, Backend Learner.
+📖 I'm currently study at Hanoi University of Science.
 
-Here are some ideas to get you started:
+😘 Open friendly and willing to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😊 Love to learn new things, especially things related to Backend ❤.
+
+🙂 Can read and understand HTML, CSS, JavaScript.
+
+# Most used language.
+<code><img height="60" alt="java" src="image/java.png"></code>
+<code><img height="60" alt="python" src="image/python.png"></code>
+
+
+# Find me in:
+<a href="https://www.facebook.com/tom.beo.50/"><img src="image/facebook.png" width="100"></a>
+<a href="https://www.instagram.com/lhhuy1005/"><img src="image/instagram.png" width="100"></a>
+
